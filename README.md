@@ -22,7 +22,7 @@ I’m beginning my research journey around **wireless sensing** and **intelligen
 | Route | What I’m exploring |
 | --- | --- |
 | **Research into Reality** | Building technical depth and asking how research can reach real people and scenarios. |
-| **Ideas into Systems** | Understanding organizations, markets, and society—then turning complex ideas into useful systems. |
+| **Ideas into Systems** | Understanding organizations and society—then turning complex ideas into useful systems. |
 | **World into Stories** | Experiencing places through geography, photography, and writing. |
 
 ## 📍 Right Now
