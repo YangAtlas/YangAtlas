@@ -38,9 +38,9 @@ I enjoy entering complex situations, finding their structure, connecting people 
 
 There is not much on this map yet—and that is honest. This profile is where the first coordinates will appear, one project and one field note at a time.
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://solverse-atlas.zjuwind0611.chatgpt.site"><strong>Visit my Personal Atlas →</strong></a>
-</p>
+</p> -->
 
 ---
 
