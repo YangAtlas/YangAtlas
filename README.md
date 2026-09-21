@@ -13,7 +13,7 @@
 
 ## 🧭 Current Coordinates
 
-I’m an incoming PhD student at the **College of Information Science and Electronic Engineering, Zhejiang University**.
+I’m a PhD student at the **College of Information Science and Electronic Engineering, Zhejiang University**.
 
 I’m beginning my research journey around **wireless sensing** and **intelligent systems**. I care not only about how technology works, but also about how it enters real contexts, connects people, and creates value.
 
