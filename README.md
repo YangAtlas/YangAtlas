@@ -5,11 +5,11 @@
   <em>Exploring the world, engineering the future, discovering myself.</em>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://solverse-atlas.zjuwind0611.chatgpt.site">Personal Atlas</a>
   ·
   <a href="mailto:3220103612@zju.edu.cn">Email</a>
-</p>
+</p> -->
 
 ## 🧭 Current Coordinates
 
